@@ -76,6 +76,3 @@ This project analyzes HR data from **2014–2019** to evaluate employee performa
 
 ## 👥 Team
 **The Big Brain – SDB 2025**
-
-## 👥 Team
-**The Big Brain – SDB 2025**
