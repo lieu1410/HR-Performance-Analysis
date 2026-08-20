@@ -68,6 +68,7 @@ This project analyzes HR data from **2014–2019** to evaluate employee performa
 - Clarify job roles and responsibilities  
 - Reduce workload pressure  
 - Enhance coaching and feedback culture  
+<img width="1918" height="918" alt="image" src="https://github.com/user-attachments/assets/9b1d36f9-590e-4253-9895-06d8928af48a" />
 
 ## 🔗 Resources
 - 📓 Python Notebook (Data Cleaning & Analysis)  
