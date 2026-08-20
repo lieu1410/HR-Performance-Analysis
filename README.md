@@ -2,6 +2,7 @@
 
 ## 📌 Overview
 This project analyzes HR data from **2014–2019** to evaluate employee performance, compensation, productivity, and resignation trends.
+[Dashboard](https://app.powerbi.com/groups/me/reports/084a2bac-1949-4f43-be58-15d6d55fbb03/cb5bd46e71723c024629?experience=power-bi)
 
 ## 🧹 Data Cleaning
 - Handled missing values, duplicates, and inconsistent formats  
